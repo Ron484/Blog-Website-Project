@@ -1,3 +1,37 @@
+# Beauty Blog Site
+
+Welcome to the Beauty Blog Site, a Laravel-based web application dedicated to beauty enthusiasts. This project utilizes Laravel, Livewire v3, Tailwind CSS, and Filament v3 to create a dynamic and visually appealing beauty blog.
+
+## Features
+
+- **Skincare Reviews:** Share detailed reviews of skincare products.
+- **Beauty Tips:** Provide beauty tips and tricks for your audience.
+- **Beauty Hacks:** Explore creative and time-saving beauty hacks..
+- **Beauty Trends:** Stay up-to-date with the latest beauty trends.
+
+Note: I used fake data 
+php artisan db:seed --class=DatabaseSeeder
+
+
+## Requirements
+
+- PHP 8.1+
+- Composer
+- Node.js
+- Laravel v10.0+
+- Livewire v3
+- Tailwind CSS
+- Filament v3
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
