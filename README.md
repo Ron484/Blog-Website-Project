@@ -9,7 +9,7 @@ Welcome to the Beauty Blog Site, a Laravel-based web application dedicated to be
 - **Beauty Hacks:** Explore creative and time-saving beauty hacks..
 - **Beauty Trends:** Stay up-to-date with the latest beauty trends.
 
-### Note: I used fake data in this Project 
+** Note: I used fake data in this Project 
 
 
 ## Requirements
